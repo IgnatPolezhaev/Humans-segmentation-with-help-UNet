@@ -9,4 +9,4 @@ pred_valid_template.csv - encoded masks of validation images
 
 model.csv - сохраненная модель
 
-Archive of results - html file and test masks
+results.zip - archive of results, html file and test masks
